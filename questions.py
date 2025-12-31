@@ -16,4 +16,10 @@ questions = [
         "options": ["A) 10", "B) 11", "C) 12", "D) 13"],
         "answer": "C"
     }
+    ,
+    {
+        "question": "What is 25 + 1?",
+        "options": ["A) 10", "B) 26", "C) 12", "D) 13"],
+        "answer": "B"
+    }
 ]
